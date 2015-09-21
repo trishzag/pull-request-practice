@@ -1,7 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The purpose of the Pull Request Practice is to provide the opportunity for
+junior developers to practice pull requests.  There will be multiple project
+updates, followed by pull requests to incorporate changes to individual
+branches back into the project master.
 
 Things you may want to cover:
 
